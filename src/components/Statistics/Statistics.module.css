@@ -1,0 +1,7 @@
+.statistics_item {
+  font-size: 18px;
+  font-weight: 600;
+}
+.statistics_item:not(:last-child) {
+  margin-bottom: 5px;
+}
