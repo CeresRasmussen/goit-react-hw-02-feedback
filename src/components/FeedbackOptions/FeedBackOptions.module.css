@@ -17,11 +17,11 @@
 }
 .neutral {
   composes: button;
-  background-color: rgba(0, 110, 255, 0.646);
+  background-color: rgba(0, 110, 255, 0.5);
 }
 .bad {
   composes: button;
-  background-color: rgba(255, 0, 0, 0.459);
+  background-color: rgba(255, 0, 0, 0.5);
 }
 
 .button:hover {
