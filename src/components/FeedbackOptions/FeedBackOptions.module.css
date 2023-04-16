@@ -24,7 +24,7 @@
   background-color: rgba(255, 0, 0, 0.5);
 }
 
-.button:hover {
+.button:is(:hover, :focus) {
   filter: brightness(0.9);
 }
 
