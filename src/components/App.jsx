@@ -64,6 +64,3 @@ export class App extends Component {
     );
   }
 }
-{
-  /* <Notification message="There is no feedback"></Notification> */
-}
